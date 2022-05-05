@@ -2,6 +2,7 @@
 
 ## [Data Collection API](https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/bb0902e7-c3a5-4ae2-b70f-ebd6df7e338e/view?access_token=a08d41a8d90693c1a0ad7df0843acd54214fd6e94410714916be9f75a455c30f)
 
+
 ## [Data Collection WebScraping](https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/2d91b537-a0cf-4a12-9399-45baebdec232/view?access_token=9f617a05c3c9333a1912e010a620d3c24288d8e289de8af056d8d2aefa8fcf21)
 
 ## [Data Wrangling](https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/f759902e-1774-406e-b854-500a412d90eb/view?access_token=c5c1acb6b8b6583f4f55eead6bee13a9a00471e48c1890a2637ec3bf67070514)
