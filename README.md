@@ -15,4 +15,4 @@
 
 ## [Launch Sites using Folium](https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/6e53539e-3f86-4673-b38a-a6ed071c0323/view?access_token=72aaafc2a57cdd400733b9d0241a744517b3a55593e7fdefd31311c3419da215)
 
-## [Predictive Analysis using Classification](https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/c5be371d-eb36-4144-a13f-1f5346ea0f56/view?access_token=e549e956b0fa765c1c01ea71bd0d0b44415f316ec4c995bbce281b27ef1fde46)
+## [Predictive Analysis using Classification](https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/2aae6971-b975-4865-b5b1-49a53432f401/view?access_token=12bc17a1a2089c2a215af8f3456455caa532349d512495a58fa8a3831a5f79ab)
