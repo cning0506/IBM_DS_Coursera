@@ -11,7 +11,7 @@
 
 ## [EDA using SQL](https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/ef2ec83c-4124-44b5-9e0b-62e9fc9a176d/view?access_token=341056edcee5610bc256a7cb58d94ed048d7392e7f3911c56643b24b83dcc308)
 
-## [Interactive Dashboards using Ploty](https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/e1c3bde8-b752-486b-8120-6360fcf0c0dc/view?access_token=c0eaa755319106df2b597c8adb1099f4da9f79df6098ac910b0f70c8e4759a82)
+## [Interactive Dashboards using Ploty](https://github.com/cning0506/IBM_DS_Coursera/blob/main/spacex_dash_app.py)
 
 ## [Launch Sites using Folium](https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/6e53539e-3f86-4673-b38a-a6ed071c0323/view?access_token=72aaafc2a57cdd400733b9d0241a744517b3a55593e7fdefd31311c3419da215)
 
